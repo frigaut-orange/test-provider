@@ -1,4 +1,4 @@
-module github.com/crossplane/provider-template
+module github.com/frigaut-orange/test-provider
 
 go 1.21
 
