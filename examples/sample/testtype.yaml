@@ -4,6 +4,6 @@ metadata:
   name: example
 spec:
   forProvider:
-    configurableField: test
+    name: toto
   providerConfigRef:
     name: example
